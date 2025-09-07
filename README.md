@@ -1,0 +1,2 @@
+<img width="1000" height="612" alt="image" src="https://github.com/user-attachments/assets/2fafc60f-b18d-48d3-81b9-26e47db1554a" />
+My work involves data preprocessing, feature engineering, exploratory data analysis (EDA), and visualization to understand patterns in the dataset. I compare two machine learning algorithms—Elastic Net and Random Forest—to evaluate which performs better, providing insights, explanations, and conclusions based on the results.
